@@ -1,7 +1,9 @@
-2023-11-16 - KÖP 52.0 aktier till 189.71 USD. Saldo kvar: 135.08 USD
-2024-03-06 - SÄLJ 52.0 aktier till 169.12 USD. Saldo kvar: 8929.32 USD
-2024-06-05 - KÖP 45.0 aktier till 195.87 USD. Saldo kvar: 115.17 USD
-2024-09-06 - SÄLJ 45.0 aktier till 220.82 USD. Saldo kvar: 10052.07 USD
+2023-03-01 - KÖP 68.0 aktier till 145.31 USD. Saldo kvar: 118.92 USD
+2023-09-21 - SÄLJ 68.0 aktier till 173.93 USD. Saldo kvar: 11946.16 USD
+2023-12-05 - KÖP 61.0 aktier till 193.42 USD. Saldo kvar: 147.54 USD
+2024-03-06 - SÄLJ 61.0 aktier till 169.12 USD. Saldo kvar: 10463.86 USD
+2024-06-05 - KÖP 53.0 aktier till 195.87 USD. Saldo kvar: 82.75 USD
+2024-09-06 - SÄLJ 53.0 aktier till 220.82 USD. Saldo kvar: 11786.21 USD
 
-Slutlig balans: 10052.07 USD
-Procentuell förändring från start: 0.52%
+Slutlig balans: 11786.21 USD
+Procentuell förändring från start: 17.86%
