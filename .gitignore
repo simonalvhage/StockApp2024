@@ -183,3 +183,20 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
+
+# Ignore vcs.xml
+vcs.xml
+
+# Ignore StockApp2024.iml
+StockApp2024.iml
+
+# Ignore modules.xml
+modules.xml
+
+# Ignore misc.xml
+misc.xml
+
+# Ignore the folder InspectionProfiles and all files within it
+InspectionProfiles/
+
+
